@@ -18,7 +18,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-php%20-05122A?style=flat&logo=php)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular%20-05122A?style=flat&logo=Angular)&nbsp;
+![Jquery](https://img.shields.io/badge/-Jquery%20-05122A?style=flat&logo=Jquery)&nbsp;
 <br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
